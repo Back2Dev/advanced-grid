@@ -8,8 +8,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula")
 const config = {
   title: "Advanced grid wrapper",
   tagline: "Less code is more",
-  url: "https://back2bikes.github.io",
-  baseUrl: "/advanced-grid/",
+  // url: "https://back2bikes.github.io",
+  url: "https://moonlit-selkie-89a3c7.netlify.app",
+  baseUrl: "/",
   trailingSlash: false,
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
