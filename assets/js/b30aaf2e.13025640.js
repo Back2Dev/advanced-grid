@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkadvanced_grid=self.webpackChunkadvanced_grid||[]).push([[3385],{4726:function(a){a.exports=JSON.parse('{"label":"hola","permalink":"/advanced-grid/blog/tags/hola","allTagsPath":"/advanced-grid/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkadvanced_grid=self.webpackChunkadvanced_grid||[]).push([[4571],{8079:function(e){e.exports=JSON.parse('{"permalink":"/advanced-grid/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
